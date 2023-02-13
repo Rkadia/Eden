@@ -1,2 +1,2 @@
-# rAnim
-useful functions for making a nice looking and smooth imGUI functions
+# Eden
+A collection of functions that can enhance the visual appeal and user experience of your UI.
