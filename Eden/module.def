@@ -1,0 +1,5 @@
+[Module]
+Name=Eden
+Version=1
+Files=sample.Lua
+Enabled=1
