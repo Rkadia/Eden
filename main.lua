@@ -1,0 +1,3 @@
+rAnim = {}
+
+return rAnim
